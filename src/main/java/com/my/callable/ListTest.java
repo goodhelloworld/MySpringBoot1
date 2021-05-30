@@ -24,7 +24,7 @@ public class ListTest {
         m2.add("v1"); m2.add("v2");
 
         m.addAll(m2);  // java.lang.UnsupportedOperationException
-        System.out.println("ff===="+m);
+        System.out.println("ff==111=="+m);
 
     }
     // 解决liston4的问题
