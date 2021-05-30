@@ -18,7 +18,7 @@ public class MapTest {
         Map<String,String> m1 = new HashMap<>();
         m1.put(null,"dd");
         m1.put("","dd11");
-        System.out.println(m1.get(null)+"===="+ m1.get(""));
+        System.out.println(m1.get(null)+"==22=="+ m1.get(""));
     }
 
     // keySet
